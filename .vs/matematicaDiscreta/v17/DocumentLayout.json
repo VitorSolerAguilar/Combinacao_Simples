@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos C#\\matematicaDiscreta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|d:\\projetos c#\\matematicadiscreta\\matematicadiscreta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|solutionrelative:matematicadiscreta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|d:\\projetos c#\\matematicadiscreta\\matematicadiscreta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|solutionrelative:matematicadiscreta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|d:\\projetos c#\\matematicadiscreta\\matematicadiscreta\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3AD5A-517F-43C9-956E-2251EFEEF671}|matematicaDiscreta\\matematicaDiscreta.csproj|solutionrelative:matematicadiscreta\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "matematicaDiscreta\\Form1.Designer.cs",
+              "ToolTip": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.Designer.cs",
+              "RelativeToolTip": "matematicaDiscreta\\Form1.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgv34AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:53:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.cs",
+              "RelativeDocumentMoniker": "matematicaDiscreta\\Form1.cs",
+              "ToolTip": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.cs",
+              "RelativeToolTip": "matematicaDiscreta\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADgvzkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:09:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.cs",
+              "RelativeDocumentMoniker": "matematicaDiscreta\\Form1.cs",
+              "ToolTip": "D:\\Projetos C#\\matematicaDiscreta\\matematicaDiscreta\\Form1.cs [Projeto]",
+              "RelativeToolTip": "matematicaDiscreta\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:17:09.849Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

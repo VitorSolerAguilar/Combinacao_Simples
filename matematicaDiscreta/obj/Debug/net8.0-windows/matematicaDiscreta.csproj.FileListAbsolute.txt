@@ -1,0 +1,16 @@
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\bin\Debug\net8.0-windows\matematicaDiscreta.exe
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\bin\Debug\net8.0-windows\matematicaDiscreta.deps.json
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\bin\Debug\net8.0-windows\matematicaDiscreta.runtimeconfig.json
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\bin\Debug\net8.0-windows\matematicaDiscreta.dll
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\bin\Debug\net8.0-windows\matematicaDiscreta.pdb
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.Form1.resources
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.csproj.GenerateResource.cache
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.AssemblyInfoInputs.cache
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.AssemblyInfo.cs
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.csproj.CoreCompileInputs.cache
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.dll
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\refint\matematicaDiscreta.dll
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.pdb
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\matematicaDiscreta.genruntimeconfig.cache
+D:\Projetos C#\matematicaDiscreta\matematicaDiscreta\obj\Debug\net8.0-windows\ref\matematicaDiscreta.dll
