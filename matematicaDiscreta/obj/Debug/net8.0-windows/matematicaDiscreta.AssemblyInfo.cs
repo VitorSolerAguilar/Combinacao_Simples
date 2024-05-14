@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("matematicaDiscreta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f85ff10e230d98b651c8d87570c16a4e45a15bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("matematicaDiscreta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("matematicaDiscreta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -90,7 +90,6 @@
             labelResultado.Size = new Size(24, 28);
             labelResultado.TabIndex = 6;
             labelResultado.Text = "0";
-            labelResultado.Visible = false;
             // 
             // label2
             // 
